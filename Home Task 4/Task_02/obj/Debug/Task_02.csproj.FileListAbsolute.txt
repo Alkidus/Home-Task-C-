@@ -1,0 +1,14 @@
+c:\Users\Director\Downloads\C#ps\Home Task 4\Task_02\obj\Debug\Task_02.csprojAssemblyReference.cache
+c:\Users\Director\Downloads\C#ps\Home Task 4\Task_02\obj\Debug\Task_02.csproj.CoreCompileInputs.cache
+c:\Users\Director\Downloads\C#ps\Home Task 4\Task_02\bin\Debug\Task_02.exe.config
+c:\Users\Director\Downloads\C#ps\Home Task 4\Task_02\bin\Debug\Task_02.exe
+c:\Users\Director\Downloads\C#ps\Home Task 4\Task_02\bin\Debug\Task_02.pdb
+c:\Users\Director\Downloads\C#ps\Home Task 4\Task_02\obj\Debug\Task_02.exe
+c:\Users\Director\Downloads\C#ps\Home Task 4\Task_02\obj\Debug\Task_02.pdb
+c:\Users\acer\Downloads\C#ps\Home Task 4\Task_02\bin\Debug\Task_02.exe.config
+c:\Users\acer\Downloads\C#ps\Home Task 4\Task_02\bin\Debug\Task_02.exe
+c:\Users\acer\Downloads\C#ps\Home Task 4\Task_02\bin\Debug\Task_02.pdb
+c:\Users\acer\Downloads\C#ps\Home Task 4\Task_02\obj\Debug\Task_02.csprojAssemblyReference.cache
+c:\Users\acer\Downloads\C#ps\Home Task 4\Task_02\obj\Debug\Task_02.csproj.CoreCompileInputs.cache
+c:\Users\acer\Downloads\C#ps\Home Task 4\Task_02\obj\Debug\Task_02.exe
+c:\Users\acer\Downloads\C#ps\Home Task 4\Task_02\obj\Debug\Task_02.pdb
